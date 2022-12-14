@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 05:45:17</sys_created_on>
+        <sys_id>80037ddf4743511016869128436d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_849361_bookscart_user_login.x_849361_bookscart.user_login_user</sys_name>
+        <sys_package display_value="BooksCart" source="x_849361_bookscart">da6ab4474703111016869128436d43e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BooksCart">da6ab4474703111016869128436d43e4</sys_scope>
+        <sys_security_acl display_value="x_849361_bookscart_user_login">c8037ddf4743511016869128436d4314</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_80037ddf4743511016869128436d4317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-14 05:45:17</sys_updated_on>
+        <sys_user_role display_value="x_849361_bookscart.user_login_user" name="x_849361_bookscart.user_login_user">8b6c78c74703111016869128436d4393</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BooksCart">da6ab4474703111016869128436d43e4</application>
+        <file_path/>
+        <instance_id>0908a175dbf505509a4dcac505961940</instance_id>
+        <instance_name>dev125975</instance_name>
+        <name>sys_security_acl_role_80037ddf4743511016869128436d4317</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-14 05:45:17</sys_created_on><sys_id>80037ddf4743511016869128436d4317</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_849361_bookscart_user_login.x_849361_bookscart.user_login_user</sys_name><sys_package display_value="BooksCart" source="x_849361_bookscart">da6ab4474703111016869128436d43e4</sys_package><sys_policy/><sys_scope display_value="BooksCart">da6ab4474703111016869128436d43e4</sys_scope><sys_security_acl display_value="x_849361_bookscart_user_login">c8037ddf4743511016869128436d4314</sys_security_acl><sys_update_name>sys_security_acl_role_80037ddf4743511016869128436d4317</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-14 05:45:17</sys_updated_on><sys_user_role display_value="x_849361_bookscart.user_login_user" name="x_849361_bookscart.user_login_user">8b6c78c74703111016869128436d4393</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1806031958</payload_hash>
+        <record_name>x_849361_bookscart_user_login.x_849361_bookscart.user_login_user</record_name>
+        <reverted_from/>
+        <source>126ab4474703111016869128436d43e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 05:45:17</sys_created_on>
+        <sys_id>04037ddf4743511016869128436d4319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18474aba7640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-14 05:45:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4c037ddff64351105d227ed8eb0b8618</update_guid>
+        <update_guid_history>4c037ddff64351105d227ed8eb0b8618:1806031958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_849361_bookscart_user_login.x_849361_bookscart.user_login_user">8b6033b74703111016869128436d432c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 04:10:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>299faa13b6da49ab8bf3de6d4e4f63f9</sys_id>
+        <sys_metadata>80037ddf4743511016869128436d4317</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_849361_bookscart_user_login.x_849361_bookscart.user_login_user</sys_name>
+        <sys_package display_value="BooksCart" source="x_849361_bookscart">da6ab4474703111016869128436d43e4</sys_package>
+        <sys_parent display_value="">c8037ddf4743511016869128436d4314</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BooksCart">da6ab4474703111016869128436d43e4</sys_scope>
+        <sys_scope_delete display_value="">94eb207727904a599dbd94bf81aba609</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_80037ddf4743511016869128436d4317</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_80037ddf4743511016869128436d4317">04037ddf4743511016869128436d4319</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 04:10:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
